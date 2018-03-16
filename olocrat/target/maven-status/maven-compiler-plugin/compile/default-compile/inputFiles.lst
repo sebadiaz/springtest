@@ -1,1 +1,7 @@
-/home/misys/project/github/springtest/olo/src/main/java/olo/Sample.java
+/home/misys/project/github/springtest/olocrat/src/main/java/org/olo/Application.java
+/home/misys/project/github/springtest/olocrat/src/main/java/rest/Service.java
+/home/misys/project/github/springtest/olocrat/src/main/java/org/olo/newton/Function.java
+/home/misys/project/github/springtest/olocrat/src/main/java/org/olo/Sample.java
+/home/misys/project/github/springtest/olocrat/src/main/java/org/olo/newton/Variables.java
+/home/misys/project/github/springtest/olocrat/src/main/java/org/olo/newton/NewtonBean.java
+/home/misys/project/github/springtest/olocrat/src/main/java/org/olo/newton/NewtonFactory.java

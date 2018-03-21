@@ -1,4 +1,4 @@
-package rest;
+package org.olo.rest;
 
 import org.olo.newton.NewtonFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,6 +17,12 @@ public class Service {
 	    @RequestMapping("/greeting")
 	    public String greeting() {
 	        return fact.toString();
+	    }
+	    
+	    @RequestMapping("/hello/{player}")
+	    public String message(@PathVariable("player") String player) {//REST Endpoint.
+	 
+	        return "Hello " + player;
 	    }
 
 }
